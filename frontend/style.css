@@ -52,6 +52,7 @@ body {
 h1 {
 
     font-size: 42px;
+
     font-weight: 700;
 
     margin-bottom: 10px;
@@ -70,6 +71,7 @@ textarea {
     height: 140px;
 
     border: none;
+
     outline: none;
 
     resize: none;
@@ -117,7 +119,7 @@ button {
     background: linear-gradient(
         135deg,
         #22c55e,
-        #14b8a6
+        #14b8a6,
     );
 
     transition: 0.3s;
